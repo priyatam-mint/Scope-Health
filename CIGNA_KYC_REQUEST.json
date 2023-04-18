@@ -1,0 +1,24 @@
+{
+    "scope":{
+       "coverType":"INDIVIDUAL",
+       "pincode":411047,
+       "redirectUrl":"https://pro.reliancejio.windfall.turtle-feature.com/health-insurance/checkout/AGYGD71FAIU/self",
+       "clientId":null,
+       "backUrl":"https://pro.reliancejio.windfall.turtle-feature.com/health-insurance/product-detail/AGYGD71FAIU/CTPHPA/self",
+       "kycStatusPageUrl":"https://kyc.reliancejio.windfall.turtle-feature.com/api/kyc/v1/callback?applicationId=3f049a3d-fde3-49e3-9ecc-8b807e5f25bd&kycProviderType=INSURER_CKYC_API_PROVIDER&providerApplicationId=3f049a3d-fde3-49e3-9ecc-8b807e5f25bd",
+       "kycInfo":{
+          "dob":"06/02/2000",
+          "pan":"AWXPY4821C"
+       },
+       "callback":"https://pro.reliancejio.windfall.turtle-feature.com/api/health/kyc-callback/AGYGD8A43D3",
+       "applicationId":"3f049a3d-fde3-49e3-9ecc-8b807e5f25bd",
+       "providerAdditionalFields":null
+    },
+    "mappingQuery":{
+       "integrationProvider":"CIGNA",
+       "tmRequestType":"KYC_PROCESS",
+       "vertical":"HEALTH",
+       "productName":"CKYC",
+       "broker":"reliancejio"
+    }
+ }
